@@ -3,8 +3,9 @@
 A game based upon JavaScript 
 
 
-Learn to make a simple grid-based game using HTML, CSS and JavaScript. The idea of whack-a-mole is simple! The player needs to hit the grid with the mole in as many times as possible until the time runs out. In this tutorial, we will cover:
+a simple grid-based game using HTML, CSS and JavaScript. The player needs to hit the grid with the mole in as many times as possible until the time runs out.I have put the timer to be 60 seconds, and didn't added any delays.
 
+the major things I used are:
 - document.querySelector
 - textContent
 - forEach
